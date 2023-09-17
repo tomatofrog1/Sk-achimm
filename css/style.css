@@ -1,0 +1,20 @@
+.header {
+    background: blue;
+}
+
+.header .container {
+    background:green;
+}
+
+.container .header__wrapper {
+    background: yellow;
+}
+
+.container .banner__wrapper {
+    background: red;
+}
+
+.container .kerby {
+    background: pink;
+}
+
